@@ -5,9 +5,7 @@ import {Text, View, AppRegistry, StyleSheet, Button} from 'react-native';
 import Topo from './src/components/topo';
 import Icone from './src/components/icone';
 
-
 export default class app3 extends Component {
-
   constructor(props) {
     super(props);
 
@@ -134,4 +132,3 @@ const styles = StyleSheet.create({
 
 //Renderizar para o deispositivo
 AppRegistry.registerComponent('app3', () => app3);
-

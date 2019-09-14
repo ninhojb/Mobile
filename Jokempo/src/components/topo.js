@@ -12,5 +12,4 @@ class Topo extends Component {
     );
   }
 }
-
 export default Topo;
